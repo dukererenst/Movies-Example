@@ -1,4 +1,4 @@
-# Movies-Example 
+# Movies Example Retrofit.
  
  This is Movies app that Display movies data from server using retrofit.
  It show's you how to pase json automatically using retrofit.
